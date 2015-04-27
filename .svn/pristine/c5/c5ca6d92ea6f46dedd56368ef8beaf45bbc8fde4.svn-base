@@ -1,0 +1,208 @@
+****facile****
+Paris_France_1880,525_255,0,0
+Madrid_Espagne_1800,630_255,255,0
+Lisbonne_Portugal_1738,635_0,128,255
+Rome_Italie_2000,590_0,255,0
+Berlin_Allemagne_1966,464_255,0,255
+Bruxelles_Belgique_1904,469_192,192,192
+Luxembourg_Luxembourg_1921,483_128,64,0
+Alger_Algérie_1875,820_0,255,255
+La Haye_Pays-Bas_1917,444_255,128,0
+Ankara_Turquie_2288,649_128,128,192
+Athènes_Grèce_2115,637_130,127,0
+Bagdad_Irak_2400,737_0,0,127
+Berne_Suisse_1945,524_123,45,128
+Moscou_Russie_2375,350_229,229,229
+Tripoli_Libye_2100,831_229,229,82
+Tunis_Tunisie_1960,730_27,144,82
+Rabat_Maroc_1755,751_27,40,214
+Le Caire_Égypte_2225,852_211,40,214
+Pékin_Chine_3252,730_76,76,76
+Canberra_Australie_3624,1630_185,76,76
+Brasilia_Brésil_1146,1411_93,81,118
+Buenos Aires_Argentine_986,1743_204,121,204
+Washington_États-Unis_766,659_110,205,145
+New Delhi_Inde_2938,914_128,58,179	
+Ottawa_Canada_828,442_179,58,98
+Mexico_Mexique_487,947_179,167,58
+Budapest_Hongrie_2081,524_18,158,125
+Bangkok_Thaïlande_3210,1010_107,224,197
+Damas_Syrie_2337,709_221,219,104
+Copenhague_Danemark_1956,391_57,149,43
+Dublin_Irlande_1760,430_199,117,64
+Londres_Royaume-Uni_1808,380_51,117,64
+Stockholm_Suède_2014,341_51,117,165
+Oslo_Norvège_1960,314_160,117,165
+Wellington_Nouvelle-Zélande_3921,1951_229,146,69
+Oulan Bator_Mongolie_3095,522_229,146,184
+Astana_Kazakhstan_2682,522_60,146,147
+Kiev_Ukraine_2217,485_60,41,147
+Riyad_Arabie saoudite_2436,892_209,109,86
+Helsinki_Finlande_2140,291_209,177,86
+Téhéran_Iran_2531,742_209,177,192
+Reykjavik_Islande_1663,264_211,191,211
+Khartoum_Soudan_2245,1047_29,134,80
+Tokyo_Japon_3616,694_156,85,88
+Pyongyang_Corée du Nord_3447,626_156,147,85
+Séoul_Corée du Sud_3483,680_156,147,182
+Colombo_Sri Lanka_2939,1137_0,145,0
+Vienne_Autriche_2023,516_255,255,160
+Varsovie_Pologne_2076,444_214,151,71
+****Moyen****
+Antananarivo_Madagascar_0,0_0,0,0
+Bogota_Colombie_0,0_0,0,0
+Bratislava_Slovaquie_0,0_0,0,0
+Bucarest_Roumanie_0,0_0,0,0
+Dakar_Sénégal_0,0_0,0,0
+Dacca_Bangladesh_0,0_0,0,0
+Doha_Qatar_0,0_0,0,0
+Gibraltar_Gibraltar_0,0_0,0,0
+Hanoï_Viêt Nam_0,0_0,0,0
+La Havane_Cuba_0,0_0,0,0
+Honiara_Salomon_0,0_0,0,0
+Kaboul_Afghanistan_0,0_0,0,0
+Kingston_Jamaïque_0,0_0,0,0
+Abidjan_Côte d'Ivoire_0,0_0,0,0
+Abou Dabi_Émirats arabes unis_0,0_0,0,0
+Abuja_Nigeria_0,0_0,0,0
+Accra_Ghana_0,0_0,0,0
+Achgabat_Turkménistan_0,0_0,0,0
+Addis-Abeba_Éthiopie_0,0_0,0,0
+Amman_Jordanie_0,0_0,0,0
+Apia_Samoa_0,0_0,0,0
+Asmara_Érythrée_0,0_0,0,0
+Asunción_Paraguay_0,0_0,0,0
+Bakou_Azerbaïdjan_0,0_0,0,0
+Bamako_Mali_0,0_0,0,0
+Bandar Seri Begawan_Brunei_0,0_0,0,0
+Bangui_République centrafricaine_0,0_0,0,0
+Banjul_Gambie_0,0_0,0,0
+Basseterre_Saint-Christophe-et-Niévès_0,0_0,0,0
+Belgrade_Serbie_0,0_0,0,0
+Belmopan_Belize_0,0_0,0,0
+Beyrouth_Liban_0,0_0,0,0
+Bichkek_Kirghizistan_0,0_0,0,0
+Bissau_Guinée-Bissau_0,0_0,0,0
+Brazzaville_République du Congo_0,0_0,0,0
+Bridgetown_Barbade_0,0_0,0,0
+Bujumbura_Burundi_0,0_0,0,0
+Caracas_Venezuela_0,0_0,0,0
+Castries_Sainte-Lucie_0,0_0,0,0
+Chisinau_Moldavie_0,0_0,0,0
+Conakry_Guinée_0,0_0,0,0
+Cotonou_Bénin_0,0_0,0,0
+Dar es Salam_Tanzanie_0,0_0,0,0
+Delap-Uliga-Darrit_Marshall_0,0_0,0,0
+Dili_Timor oriental_0,0_0,0,0
+Djibouti_Djibouti_0,0_0,0,0
+Djouba_Soudan du Sud_0,0_0,0,0
+Dodoma8_Tanzanie_0,0_0,0,0
+Douchanbé_Tadjikistan_0,0_0,0,0
+Erevan_Arménie_0,0_0,0,0
+Fagatogo_Samoa américaines_0,0_0,0,0
+Freetown_Sierra Leone_0,0_0,0,0
+Funafuti_Tuvalu_0,0_0,0,0
+Gaborone_Botswana_0,0_0,0,0
+Georgetown_Guyana_0,0_0,0,0
+Guatemala_Guatemala_0,0_0,0,0
+Hagåtña_Guam_0,0_0,0,0
+Hamilton_Bermudes_0,0_0,0,0
+Harare_Zimbabwe_0,0_0,0,0
+Islamabad_Pakistan_0,0_0,0,0
+Jakarta_Indonésie_0,0_0,0,0
+Kampala_Ouganda_0,0_0,0,0
+Katmandou_Népal_0,0_0,0,0
+Kigali_Rwanda_0,0_0,0,0
+Kingstown_Saint-Vincent-et-les-Grenadines_0,0_0,0,0
+Kinshasa_République démocratique du Congo_0,0_0,0,0
+Koror11_Palaos_0,0_0,0,0
+Koweït_Koweït_0,0_0,0,0
+Kralendijk_Saint-Eustache et Saba_0,0_0,0,0
+Kuala Lumpur_Malaisie_0,0_0,0,0
+Libreville_Gabon_0,0_0,0,0
+Lilongwe_Malawi_0,0_0,0,0
+Lima_Pérou_0,0_0,0,0
+Ljubljana_Slovénie_0,0_0,0,0
+Lomé_Togo_0,0_0,0,0
+Luanda_Angola_0,0_0,0,0
+Lusaka_Zambie_0,0_0,0,0
+Malabo_Guinée équatoriale_0,0_0,0,0
+Malé_Maldives_0,0_0,0,0
+Managua_Nicaragua_0,0_0,0,0
+Manama_Bahreïn_0,0_0,0,0
+Manille_Philippines_0,0_0,0,0
+Maputo_Mozambique_0,0_0,0,0
+Mascate_Oman_0,0_0,0,0
+Maseru_Lesotho_0,0_0,0,0
+Mbabane_Swaziland_0,0_0,0,0
+Minsk_Biélorussie_0,0_0,0,0
+Mogadiscio_Somalie_0,0_0,0,0
+Monaco_Monaco_0,0_0,0,0
+Monrovia_Liberia_0,0_0,0,0
+Montevideo_Uruguay_0,0_0,0,0
+Moroni_Comores_0,0_0,0,0
+Nairobi_Kenya_0,0_0,0,0
+Nassau_Bahamas_0,0_0,0,0
+N'Djaména_Tchad_0,0_0,0,0
+Ngerulmud11_Palaos_0,0_0,0,0
+Niamey_Niger_0,0_0,0,0
+Nicosie_Chypre_0,0_0,0,0
+Nouakchott_Mauritanie_0,0_0,0,0
+Nuku'alofa_Tonga_0,0_0,0,0
+Ouagadougou_Burkina Faso_0,0_0,0,0
+Palikir_Micronésie_0,0_0,0,0
+Panama_Panama_0,0_0,0,0
+Paramaribo_Suriname_0,0_0,0,0
+La Paz_Bolivie_0,0_0,0,0
+Phnom Penh_Cambodge_0,0_0,0,0
+Podgorica_Monténégro_0,0_0,0,0
+Port Moresby_Papouasie-Nouvelle-Guinée_0,0_0,0,0
+Port-au-Prince_Haïti_0,0_0,0,0
+Port-d'Espagne_Trinité-et-Tobago_0,0_0,0,0
+Port-Louis_Maurice_0,0_0,0,0
+Porto-Novo_Bénin_0,0_0,0,0
+Port-Vila_Vanuatu_0,0_0,0,0
+Prague_République tchèque_0,0_0,0,0
+Praia_Cap-Vert_0,0_0,0,0
+Pretoria_Afrique du Sud_0,0_0,0,0
+Putrajaya_Malaisie_0,0_0,0,0
+Pyinmana_Birmanie_0,0_0,0,0
+Quito_Équateur_0,0_0,0,0
+Rangoon_Birmanie_0,0_0,0,0
+Riga_Lettonie_0,0_0,0,0
+Roseau_Dominique_0,0_0,0,0
+Saint John's_Antigua-et-Barbuda_0,0_0,0,0
+Saint-Domingue_République dominicaine_0,0_0,0,0
+Saint-Georges_Grenade_0,0_0,0,0
+Saint-Marin_Saint-Marin_0,0_0,0,0
+San José_Costa Rica_0,0_0,0,0
+San Salvador_Salvador_0,0_0,0,0
+Sanaa_Yémen_0,0_0,0,0
+Santiago_Chili_0,0_0,0,0
+São Tomé_Sao Tomé-et-Principe_0,0_0,0,0
+Sarajevo_Bosnie-Herzégovine_0,0_0,0,0
+Singapour_Singapour_0,0_0,0,0
+Skopje_Macédoine_0,0_0,0,0
+Sofia_Bulgarie_0,0_0,0,0
+Sri Jayawardenapura_Sri Lanka_0,0_0,0,0
+Sucre_Bolivie_0,0_0,0,0
+Suva_Fidji_0,0_0,0,0
+Tachkent_Ouzbékistan_0,0_0,0,0
+Tallinn_Estonie_0,0_0,0,0
+Tarawa16_Kiribati_0,0_0,0,0
+Tbilissi_Géorgie_0,0_0,0,0
+Tegucigalpa_Honduras_0,0_0,0,0
+Tel Aviv-Jaffa_Israël_0,0_0,0,0
+Thimphou_Bhoutan_0,0_0,0,0
+Tirana_Albanie_0,0_0,0,0
+Vaduz_Liechtenstein_0,0_0,0,0
+La Valette_Malte_0,0_0,0,0
+Vatican_Vatican_0,0_0,0,0
+Victoria_Seychelles_0,0_0,0,0
+Vientiane_Laos_0,0_0,0,0
+Vilnius_Lituanie_0,0_0,0,0
+Windhoek_Namibie_0,0_0,0,0
+Yamoussoukro_Côte d'Ivoire_0,0_0,0,0
+Yaoundé_Cameroun_0,0_0,0,0
+Yaren_Nauru_0,0_0,0,0
+Zagreb_Croatie_0,0_0,0,0
